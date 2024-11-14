@@ -57,3 +57,12 @@ Production insights: Provides data-driven insights on crop yield and farming pra
 Sales analysis: Analyzes sales trends over time to identify high-demand periods and optimize pricing strategies.
 Financial reporting: Generates financial reports summarizing income, expenses, and profits, supporting financial transparency.
 Market trend analysis: Tracks trends in coffee demand and prices, assisting the cooperative in aligning production with market conditions.
+
+🏗️ System Architecture
+
+Database Structure
+
+Relational Database Model: Utilizes a relational database structure with tables for each main entity (Farmers, Cooperatives, Sales Records, etc.), ensuring organized and accessible data storage.
+Data Integrity: Implements primary and foreign keys to maintain relational integrity and prevent data duplication.
+Efficient Data Relationships: Leverages database relationships to support complex queries, enabling rapid access to interconnected data.
+Supports Advanced Reporting: Designed to facilitate complex reporting, ensuring that users can generate detailed insights from integrated data.
