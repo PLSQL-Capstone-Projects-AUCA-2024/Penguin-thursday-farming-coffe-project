@@ -74,6 +74,28 @@ Cooperatives ─┬─── Cooperative Managers
               └─── Sales Records
 
 Buyers Records ─── Sales Records
+
+Entity Relationships:
+Farmers ↔ Farm Records:
+
+Farmers are linked to Farm Records through Farmer_ID (FK in Farm Records). Each farmer can have multiple Farm Records associated with different farm plots.
+The Farm Records contain details about the plot, such as Plot_ID, Plot_Name, District, and Sector, and link to the Farmers via Farmer_ID.
+Farmers ↔ Sales Records:
+
+Farmers are linked to Sales Records via Farmer_ID (FK in Sales Records). Farmers generate Sales Records when they sell coffee, capturing details like Kilograms_Sold and Sales_FRW.
+Each Sales Record also tracks the Plot_ID (linking back to Farm Records) and Cooperative_ID (indicating the farmer’s cooperative).
+Cooperatives ↔ Cooperative Managers:
+
+A Cooperative is managed by one Cooperative Manager. The Cooperative Manager is identified by Manager_ID and is linked to a Cooperative via Manager_ID (FK in Cooperatives).
+The Cooperative Manager oversees the Farm Records and ensures that coffee production is aligned with market demand.
+Cooperatives ↔ Sales Records:
+
+Cooperatives track the Sales Records through Cooperative_ID (FK in Sales Records). This allows them to aggregate sales data and monitor financial transactions across all associated Farmers.
+The Cooperative may also be responsible for reporting on the overall sales data and managing the cooperative’s financial health.
+Buyers ↔ Sales Records:
+
+Buyers interact with Sales Records by purchasing coffee. Buyers Records capture Buyer_ID (PK), Business_Name, Owner_Name, and transaction details like Date_Purchased, Quantity_Purchased_KG, and Amount_Spent_FRW.
+Sales Records link to Buyers via Buyer_ID (FK) to track all transactions between the cooperative and buyers.
 ```
 ---
 #thank you for the contributions 
