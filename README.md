@@ -75,9 +75,8 @@ Cooperatives ─┬─── Cooperative Managers
 Buyers Records ─── Sales Records
 ```
 
-```
 
-## 📊 Data Models
+
 
 ### Entity Relationships
 - **Farmers**
