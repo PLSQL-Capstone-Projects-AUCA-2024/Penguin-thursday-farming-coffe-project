@@ -75,7 +75,8 @@ Cooperatives ─┬─── Cooperative Managers
 
 Buyers Records ─── Sales Records
 ```
-
+---
+#thank you for the contributions 
 
 
 ---
