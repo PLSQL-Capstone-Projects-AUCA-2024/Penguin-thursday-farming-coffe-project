@@ -50,3 +50,10 @@ Buyer profile management: Stores detailed profiles of each buyer, including cont
 Purchase history tracking: Logs all past purchases to provide insight into buyer preferences and forecast future demand.
 Market requirement alignment: Aligns production standards with buyer requirements, ensuring that quality expectations are met.
 Long-term partnership management: Tracks long-term buyer interactions to support stable and sustainable business relationships.
+Reporting & Analytics
+
+Production insights: Provides data-driven insights on crop yield and farming practices to inform strategic decisions.
+
+Sales analysis: Analyzes sales trends over time to identify high-demand periods and optimize pricing strategies.
+Financial reporting: Generates financial reports summarizing income, expenses, and profits, supporting financial transparency.
+Market trend analysis: Tracks trends in coffee demand and prices, assisting the cooperative in aligning production with market conditions.
