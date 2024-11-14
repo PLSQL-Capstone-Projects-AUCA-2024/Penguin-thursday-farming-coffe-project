@@ -22,9 +22,18 @@ Personal details tracking: Records individual profiles of farmers, including con
 Farm location mapping: Maintains geographical information on farm locations, helping manage resource allocation based on farm proximity.
 Production data recording: Logs crop yield per season, enabling cooperatives to analyze productivity trends and forecast output.
 Cooperative affiliation management: Tracks each farmer’s cooperative affiliation, contributing to effective member tracking and support.
+
 Cooperative Administration
 
 Membership management: Manages member records, including new registrations and status updates, providing a complete view of cooperative membership.
 Resource allocation tracking: Monitors the distribution of resources such as seeds, fertilizers, and tools to support equitable allocation.
 Manager assignment: Tracks assignments and roles of cooperative managers to streamline responsibility and oversight.
 Performance monitoring: Collects performance metrics for farmers and plots, helping assess productivity and provide targeted support.
+
+Farm Records
+
+Plot information management: Records plot-specific details (e.g., size, soil type) to optimize planting strategies and resource application.
+Harvest tracking: Maintains data on harvest timing and yields, enabling analysis for yield improvement and loss reduction.
+Resource utilization monitoring: Logs resource usage per plot, assisting in budget tracking and resource optimization.
+Production stage tracking: Tracks the growth stages of coffee crops, from planting to harvesting, providing a timeline for management activities.
+
