@@ -96,6 +96,13 @@ Buyers ↔ Sales Records:
 
 Buyers interact with Sales Records by purchasing coffee. Buyers Records capture Buyer_ID (PK), Business_Name, Owner_Name, and transaction details like Date_Purchased, Quantity_Purchased_KG, and Amount_Spent_FRW.
 Sales Records link to Buyers via Buyer_ID (FK) to track all transactions between the cooperative and buyers.
+
+Summary of the Logical Flow:
+Farmers record farming activities in the Farm Records and generate Sales Records upon selling coffee to Buyers.
+Cooperative Managers oversee both Farm Records and Sales Records, ensuring production aligns with market demand.
+The Cooperative System (MIS) serves as a central hub, consolidating data and generating real-time reports for better decision-making.
+Buyers purchase coffee and generate sales transactions that feed back into the Sales Records for tracking and financial analysis.
+This logical flow ensures all data is interlinked and managed effectively, enabling real-time insights for cooperative managers, better financial management, and improved decision-making.
 ```
 ---
 #thank you for the contributions 
