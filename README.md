@@ -79,7 +79,7 @@ Buyers Records ─── Sales Records
 
 
 ### Entity Relationships
-- **Farmers**
+- **Farmers*
   - Primary Key: Farmer_ID
   - Relationships: Farm Records, Cooperatives, Sales Records
 
@@ -87,7 +87,7 @@ Buyers Records ─── Sales Records
   - Primary Key: Cooperative_ID
   - Relationships: Farmers, Cooperative Managers, Sales Records
 
-- **Sales Records**
+- **Sales Records*
   - Primary Key: Transaction_ID
   - Relationships: Farmers, Cooperatives, Buyers Records
 
