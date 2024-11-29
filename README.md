@@ -91,7 +91,5 @@ Buyers Records ─── Sales Records
   - Primary Key: Transaction_ID
   - Relationships: Farmers, Cooperatives, Buyers Records
 
-
-
 ---
 ⌨️ with ❤️ by Penguin Group 🚀
