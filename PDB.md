@@ -68,6 +68,16 @@ CREATE TABLE cooperatives (
   Manager_ID INT,
   Manager_Name VARCHAR2(100)
 );
+3. Cooperative Managers Table
+Stores information about the managers:
+CREATE TABLE cooperative_managers (
+  Manager_ID INT PRIMARY KEY,
+  Manager_Name VARCHAR2(100),
+  Cooperative_Name VARCHAR2(100),
+  Plot_Name VARCHAR2(100),
+  Plot_ID INT
+);
+
 
 
 
