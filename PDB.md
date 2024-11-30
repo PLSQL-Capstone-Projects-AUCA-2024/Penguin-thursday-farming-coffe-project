@@ -85,6 +85,19 @@ CREATE TABLE farm_records (
   District VARCHAR2(100),
   Sector VARCHAR2(100)
 );
+5. Sales Records Table
+Tracks sales made by farmers:
+CREATE TABLE sales_records (
+  Transaction_ID INT PRIMARY KEY,
+  Farmer_ID INT,
+  Farmer_Name VARCHAR2(100),
+  Plot_ID INT,
+  Plot_Name VARCHAR2(100),
+  Cooperative_ID INT,
+  Cooperative_Name VARCHAR2(100),
+  Kilograms_Sold INT,
+  Sales_FRW INT
+);
 
 
 
