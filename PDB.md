@@ -98,6 +98,17 @@ CREATE TABLE sales_records (
   Kilograms_Sold INT,
   Sales_FRW INT
 );
+6. Buyers Records Table
+Contains data about buyers:
+CREATE TABLE buyers_records (
+  Buyer_ID INT PRIMARY KEY,
+  Business_Name VARCHAR2(100),
+  Owner_Name VARCHAR2(100),
+  Date_Purchased DATE,
+  Quantity_Purchased_KG INT,
+  Amount_Spent_FRW INT
+);
+
 
 
 
