@@ -77,6 +77,15 @@ CREATE TABLE cooperative_managers (
   Plot_Name VARCHAR2(100),
   Plot_ID INT
 );
+4. Farm Records Table
+Contains farm plot records:
+CREATE TABLE farm_records (
+  Plot_ID INT PRIMARY KEY,
+  Plot_Name VARCHAR2(100),
+  District VARCHAR2(100),
+  Sector VARCHAR2(100)
+);
+
 
 
 
