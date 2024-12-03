@@ -1,7 +1,7 @@
 # Penguin Farming Coffee Project - Database Implementation
 
 ## Project Overview
-
+a
 The **Penguin Farming Coffee Project** is a system designed to manage the operations of a coffee farming cooperative. This project involves the creation of a relational database to handle data related to farmers, cooperatives, farm records, sales transactions, and buyer details. The database is implemented in **Oracle** and includes tables to manage and query coffee farming-related data.
 
 ## Version
@@ -26,10 +26,8 @@ CREATE TABLE farmers (
   Plot_ID INT
 );
 
-I see! You want the README in a format that will display well when copied directly into GitHub, and ensure the data appears as expected. Here's an updated version with clear formatting and markdown that will display properly on GitHub:
 
-markdown
-Copy code
+
 # Penguin Farming Coffee Project - Database Implementation
 
 ## Project Overview
