@@ -55,7 +55,7 @@ CREATE TABLE farmers (
   Plot_Name VARCHAR2(100),
   Plot_ID INT
 );
-2. Cooperatives Table
+ ### 2. Cooperatives Table
 Stores details about the cooperatives:
 CREATE TABLE cooperatives (
   Cooperative_ID INT PRIMARY KEY,
