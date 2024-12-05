@@ -134,5 +134,31 @@ Our business process model is designed to comprehensively manage and integrate c
 The business model is structured to manage and integrate critical information within a coffee cooperative. Key entities include Farmers, who provide production data; Cooperatives, which organize and manage groups of farmers; and Cooperative Managers, who oversee daily activities and resource distribution within each cooperative. Farm Records store details about specific farm plots, while Sales Records document all coffee sales transactions, linking each sale to the relevant farmer, plot, and cooperative. Finally, Buyers Records track information about market clients purchasing coffee, helping to maintain buyer relationships and support sales strategies.
 This model incorporates primary and foreign keys to enforce data integrity and ensure accurate relationships across entities, allowing the cooperative to track production, sales, and buyer interactions effectively. Through this centralized data structure, cooperatives can make data-driven decisions, maintain financial transparency, and efficiently allocate resources to improve overall operations.
 
+## 7.These diagrams show:
+1.	Class Diagram:
+○	All major classes with attributes and methods
+○	Relationships between classes
+○	Multiplicity of relationships
+![Screenshot 2024-11-14 124259](https://github.com/user-attachments/assets/f015d986-b5dc-4fda-b341-e9e8515c72d4)
+## 8.Activity Diagram:
+○	Complete workflow from data recording to strategy planning
+○	Decision points and alternative flows
+○	Important notes for key activities
+![Screenshot 2024-11-14 124316](https://github.com/user-attachments/assets/ffcd6a33-fa3f-4e5c-846a-1539627affb7)
+## 9.Sequence Diagram:
+○	Temporal flow of interactions between system components
+○	Message exchange between different actors
+○	Activity timing and dependencies
+![Screenshot 2024-11-14 124333](https://github.com/user-attachments/assets/d4c1b372-9424-4955-945e-1374d857b591)
+
+## The diagrams together provide a comprehensive view of:
+●	System structure (Class Diagram)
+●	Process flow (Activity Diagram)
+●	Component interactions (Sequence Diagram)
+
+## 10.LOGIC MODEL DESIGN
+![image](https://github.com/user-attachments/assets/cf1b0cf2-a0f3-444c-a4d0-b29c2616fc27)
+
+
 
 ⌨️ with ❤️ by Penguin Group 🚀
