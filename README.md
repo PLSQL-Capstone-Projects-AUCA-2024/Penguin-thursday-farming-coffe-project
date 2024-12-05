@@ -125,9 +125,10 @@ This project aims to develop a centralized, structured database system designed 
 - Real-time reporting capabilities
 
 ## 5.BPMN DIAGRAM 
+![Screenshot 2024-12-05 093431](https://github.com/user-attachments/assets/9cf2c3e8-c70a-444c-ac4d-cb84cb07496a)
 
 
-##6. BPMN Diagram Explanation
+## 6.BPMN Diagram Explanation
 
 Our business process model is designed to comprehensively manage and integrate critical information within a coffee cooperative ecosystem. The model captures the intricate relationships between key entities to facilitate efficient operations.
 The business model is structured to manage and integrate critical information within a coffee cooperative. Key entities include Farmers, who provide production data; Cooperatives, which organize and manage groups of farmers; and Cooperative Managers, who oversee daily activities and resource distribution within each cooperative. Farm Records store details about specific farm plots, while Sales Records document all coffee sales transactions, linking each sale to the relevant farmer, plot, and cooperative. Finally, Buyers Records track information about market clients purchasing coffee, helping to maintain buyer relationships and support sales strategies.
