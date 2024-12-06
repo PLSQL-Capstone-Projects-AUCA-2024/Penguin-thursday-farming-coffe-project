@@ -16,7 +16,6 @@ Rwandan coffee farming cooperatives face substantial challenges in:
 - Processing financial transactions
 - Managing buyer relationships
 
-## 🎁 Features
 
 ## 🎁 Features
 # Phase 2: Business Process Modeling for Coffee Cooperative Management System
